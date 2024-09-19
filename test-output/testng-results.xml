@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-25T12:30:51 IST" name="Suite" finished-at="2024-08-25T12:31:04 IST" duration-ms="12812">
+    <groups>
+    </groups>
+    <test started-at="2024-08-25T12:30:51 IST" name="Test" finished-at="2024-08-25T12:31:04 IST" duration-ms="12812">
+      <class name="pom.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pom.LoginTest@4f83df68]" started-at="2024-08-25T12:30:52 IST" name="setUp" finished-at="2024-08-25T12:31:02 IST" duration-ms="9994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="orangeHRMLogin()[pri:0, instance:pom.LoginTest@4f83df68]" started-at="2024-08-25T12:31:02 IST" name="orangeHRMLogin" finished-at="2024-08-25T12:31:04 IST" duration-ms="2473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orangeHRMLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:pom.LoginTest@4f83df68]" started-at="2024-08-25T12:31:04 IST" name="tearDown" finished-at="2024-08-25T12:31:04 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- pom.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
